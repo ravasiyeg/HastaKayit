@@ -1,0 +1,11 @@
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\bin\Debug\HastaTakip.exe.config
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\bin\Debug\HastaTakip.exe
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\bin\Debug\HastaTakip.pdb
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.csproj.AssemblyReference.cache
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.Form1.resources
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.Properties.Resources.resources
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.csproj.GenerateResource.cache
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.csproj.CoreCompileInputs.cache
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.exe
+C:\Users\RAVASİYE\Source\Repos\HastaTakip\HastaTakip\obj\Debug\HastaTakip.pdb
